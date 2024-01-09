@@ -1,0 +1,28 @@
+.add-card {
+  margin-top: 20px;
+}
+
+.add-card h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.add-card form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.add-card input {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.add-card button {
+    color: #fff;
+    font-size: 20px;
+    padding: 8px;
+    background-color: #70c05b;
+    border: 1px solid transparent;
+    border-radius: 6px;
+}
